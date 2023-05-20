@@ -34,10 +34,10 @@ Configure some plug-ins
 
 > | Name | Description |
 > |-----|-----|
-> | git | blah |
+> | git | The git plugin provides many aliases and a few useful functions [see details}(https://github.com/xianmin/oh-my-zsh/blob/master/plugins/git/README.md) |
 > | gradle | blah |
 > | zsh-autosuggestions | ``git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`` |
-> | dotnet | [see](https://github.com/xianmin/oh-my-zsh/blob/master/plugins/dotnet/README.md) |
+> | dotnet | This plugin provides completion and useful aliases for dotnet core [see details](https://github.com/xianmin/oh-my-zsh/blob/master/plugins/dotnet/README.md) |
 
 Install [Powerlevel10k](https://github.com/romkatv/powerlevel10k) Theme
 
