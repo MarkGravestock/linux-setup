@@ -1,4 +1,4 @@
-## Linux (Ubuntu) setup
+## Linux (Ubuntu 22.04) setup
 
 Here's how i setup Ubuntu (may work for other *nix variants)
 
@@ -63,3 +63,6 @@ Install DotNet
 
 >``sudo apt install	dotnet-sdk-7.0``
 
+### Java SDK
+
+Running ``java`` will suggest what ``apt install`` to run
