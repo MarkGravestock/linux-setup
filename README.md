@@ -51,4 +51,15 @@ Install [Powerlevel10k](https://github.com/romkatv/powerlevel10k) Theme
 
 > ``curl -sS https://starship.rs/install.sh | sh``
 
+### Dev Tools
+
+#### DotNet
+
+Ensure Microsoft Package Registry is configured
+
+[Instructions](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu#register-the-microsoft-package-repository)
+
+Install DotNet
+
+>``sudo apt install	dotnet-sdk-7.0``
 
