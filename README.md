@@ -34,7 +34,10 @@ Configure some plug-ins
 
 > | Name | Description |
 > |-----|-----|
-> | blah | blah |
+> | git | blah |
+> | gradle | blah |
+> | zsh-autosuggestions | ``git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`` |
+> | dotnet | [see](https://github.com/xianmin/oh-my-zsh/blob/master/plugins/dotnet/README.md) |
 
 Install [Powerlevel10k](https://github.com/romkatv/powerlevel10k) Theme
 
