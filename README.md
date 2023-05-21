@@ -1,6 +1,7 @@
 ## Linux (Ubuntu 22.04) setup
 
-Here's how i setup Ubuntu (may work for other *nix variants)
+Here's how i setup Ubuntu (may work for other *nix variants). I'm running it under WSL2.
+May require changes for other variants (e.g. package manager commands).
 
 ### Shell customisation
 
