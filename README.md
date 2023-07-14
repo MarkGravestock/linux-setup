@@ -19,6 +19,8 @@ Prerequisite
 
 [Nerd Font](https://github.com/ryanoasis/nerd-fonts#patched-fonts)
 
+Install on Linux
+
 >``git clone --filter=blob:none --sparse  https://github.com/ryanoasis/nerd-fonts.git``
 >
 >``cd nerd-fonts``
@@ -26,6 +28,10 @@ Prerequisite
 >``git sparse-checkout add patched-fonts/Meslo``
 >
 >``./install.sh Meslo``
+
+Install for Windows Terminal
+
+install on windows and then select in terminal configuration.
 
 Install
 
