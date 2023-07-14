@@ -31,7 +31,7 @@ Install on Linux
 
 Install for Windows Terminal
 
-install on windows and then select in terminal configuration.
+> install on windows and then select in terminal configuration.
 
 Install
 
